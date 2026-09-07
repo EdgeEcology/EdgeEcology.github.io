@@ -10,10 +10,10 @@ Our research explores how compact machine-learning models can operate directly o
 
 The website highlights several connected areas of research:
 
-* **Biologging at the Edge** — on-device AI for animal-borne biologging sensors.
-* **Acoustic Detection on Nordic Platforms** — low-power neural networks for continuous bioacoustic monitoring.
-* **EdgeAI Soundscapers** — autonomous acoustic biodiversity monitoring associated with the RESTOREID Horizon Europe project.
-* **Single-Species Acoustic Detectors** — tinyML-based detectors for targeted ecological monitoring.
+* **Biologging at the Edge:** on-device AI for animal-borne biologging sensors.
+* **Acoustic Detection on Nordic Platforms:** low-power neural networks for continuous bioacoustic monitoring.
+* **EdgeAI Soundscapers:** autonomous acoustic biodiversity monitoring associated with the RESTOREID Horizon Europe project.
+* **Single-Species Acoustic Detectors:** tinyML-based detectors for targeted ecological monitoring.
 
 ## Walkshop 2026
 
